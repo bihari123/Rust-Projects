@@ -4,3 +4,9 @@
 [submodule "practice_projects/rust_multithrading"]
 	path = practice_projects/rust_multithrading
 	url = https://github.com/bihari123/rust-multithrading.git
+[submodule "practice_projects/rust-code-garage"]
+	path = practice_projects/rust-code-garage
+	url = https://github.com/bihari123/rust-code-garage.git
+[submodule "spacy_rust"]
+	path = spacy_rust
+	url = https://github.com/bihari123/spacy-rust.git
