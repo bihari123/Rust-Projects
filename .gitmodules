@@ -13,3 +13,6 @@
 [submodule "spacy-rust"]
 	path = spacy-rust
 	url = https://github.com/bihari123/spacy-rust.git
+[submodule "blockchain/solana_note_taking"]
+	path = blockchain/solana_note_taking
+	url = https://github.com/bihari123/solana_note_taking.git
