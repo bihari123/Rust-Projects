@@ -10,3 +10,6 @@
 [submodule "spacy_rust"]
 	path = spacy_rust
 	url = https://github.com/bihari123/spacy-rust.git
+[submodule "spacy-rust"]
+	path = spacy-rust
+	url = https://github.com/bihari123/spacy-rust.git
