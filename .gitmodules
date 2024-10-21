@@ -19,3 +19,6 @@
 [submodule "blockchain/solana-escrow"]
 	path = blockchain/solana-escrow
 	url = https://github.com/bihari123/solana-escrow.git
+[submodule "tui_in_rust"]
+	path = tui_in_rust
+	url = https://github.com/bihari123/tui-in-rust.git
