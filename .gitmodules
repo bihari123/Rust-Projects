@@ -16,3 +16,6 @@
 [submodule "blockchain/solana_note_taking"]
 	path = blockchain/solana_note_taking
 	url = https://github.com/bihari123/solana_note_taking.git
+[submodule "blockchain/solana-escrow"]
+	path = blockchain/solana-escrow
+	url = https://github.com/bihari123/solana-escrow.git
