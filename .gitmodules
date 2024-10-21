@@ -1,3 +1,6 @@
 [submodule "rusty_agent"]
 	path = rusty_agent
 	url = https://github.com/bihari123/rusty_agent.git
+[submodule "practice_projects/rust_multithrading"]
+	path = practice_projects/rust_multithrading
+	url = https://github.com/bihari123/rust-multithrading.git
